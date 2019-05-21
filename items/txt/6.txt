@@ -1,0 +1,4 @@
+﻿6
+"Antes de llegar al castillo, a lo lejos debes de decidir sabiamente, por cuál entrada vas a llegar"
+"Entrar por la puerta trasera" [7] (hablar, estornudar) 0 0
+"Romper la entrada principal con un martillo" [7] (hablar, estornudar) 0 0

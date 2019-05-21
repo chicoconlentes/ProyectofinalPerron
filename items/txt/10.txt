@@ -1,0 +1,4 @@
+﻿10
+"Una vez estás arriba, te topas a otro gato de la bruja. Así que decides"
+"Ignorarlo y dejarlo pasar" [11] (hablar, estornudar) 0 0
+"Matarlo con el martillor" [16] (hablar, estornudar) 0 0

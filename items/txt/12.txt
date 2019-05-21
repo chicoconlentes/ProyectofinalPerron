@@ -1,0 +1,4 @@
+﻿12
+"Llega su gato a defenderla, pero lo intentas matar y la bruja te pide que no lo hagas a cambio de no lo hagas, hará lo que quieras"
+"Continuar" [14] (hablar, estornudar) 0 0
+"Volver y hablar con ella" [11] (hablar, estornudar) 0 0

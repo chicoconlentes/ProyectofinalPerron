@@ -1,0 +1,4 @@
+﻿9
+"Una vez que te sientes mejor, tienes que decidir por dónde subir hacia dónde se encuentra la bruja"
+"Subir por las escaleras" [10] (hablar, estornudar) 0 0
+"Tomar el ascensor" [10] (hablar, estornudar) 0 0

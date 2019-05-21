@@ -1,0 +1,4 @@
+﻿18
+"La bruja acepta darte el desencanto, pero dice que lo pondrá en la cola de un perro al azar y hasta que algún día lo encuentren, los perros podrán volver a hablar"
+"La enfrentas" [END] (hablar, estornudar) 0 0
+"Hablar con ella y pedir que te regrese la voz" [END] (hablar, estornudar) 0 0

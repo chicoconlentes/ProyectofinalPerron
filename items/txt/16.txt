@@ -1,0 +1,4 @@
+﻿16
+"La bruja te descubre. Así que decides"
+"La enfrentas" [17] (hablar, estornudar) 0 0
+"Hablar con ella y pedir que te regrese la voz" [18] (hablar, estornudar) 0 0

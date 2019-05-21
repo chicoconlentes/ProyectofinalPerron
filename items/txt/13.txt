@@ -1,0 +1,4 @@
+﻿13
+"Ella acepta las disculpas y te da el conjuro para volver a hablar"
+"Continuar" [15] (hablar, estornudar) 0 0
+"Regresar a hablar con ella y pedir que te regrese la voz" [11] (hablar, estornudar) 0 0

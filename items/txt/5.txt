@@ -1,0 +1,4 @@
+﻿5
+"En tu camino recogiste una navaja ¿La conservas?"
+"Si" [6] (hablar, estornudar) 0 0
+"No" [6] (hablar, estornudar) 0 0

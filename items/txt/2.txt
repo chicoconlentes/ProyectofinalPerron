@@ -1,0 +1,4 @@
+﻿2
+"Al inicio de tu travesía debes decidir por cuál camino ir para llegar al castillo de la bruja"
+"Desierto" [3] (hablar, estornudar) 0 30
+"Bosque" [4] (hablar, estornudar) 0 20

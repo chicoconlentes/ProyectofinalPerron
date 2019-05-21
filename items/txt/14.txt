@@ -1,0 +1,4 @@
+﻿14
+"La bruja te da el conjuro para que los perros vuelvan a hablar y regresas a tu casa feliz"
+"Continuar" [END] (hablar, estornudar) 0 0
+"Volver y hablar con ella" [END] (hablar, estornudar) 0 0

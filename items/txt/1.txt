@@ -1,0 +1,4 @@
+﻿1
+"Hace mucho tiempo, los perros solían hablar y comunicarse con los humanos, pero un día un perro mordió una bruja y está decidió quitarles la voz a todos los perros del mundo. Así que entre los perros eligieron al más fuerte para emprender una aventura hacia el castillo de la bruja para recuperar las voces de todos los perros, tú eres ese perro y está en ti esta importante misión. Nota: cuentas con una mochila que incluye: un bote de agua, croquetas, una pelota y un martillo. De igual forma recuerda conservar tu vida y no morir por hambre"
+"Continuar" [2] (vida, estornudar) 0 0
+"Comenzar" [2] (hablar, estornudar) 0 0

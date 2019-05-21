@@ -1,0 +1,4 @@
+﻿7
+"Una vez dentro del Castillo, encuentras un gato de la bruja. Así que decides"
+"Matarlo con el martillo" [8] (hablar, estornudar) 0 0
+"Distraerlo con la pelota" [8] (hablar, estornudar) 0 0

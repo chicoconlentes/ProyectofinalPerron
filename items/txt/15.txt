@@ -1,0 +1,4 @@
+﻿15
+"La bruja te golpea de sorpresa y despiertas al día siguiente en un hospital sin piernas"
+"Continuar" [END] (hablar, estornudar) 0 0
+"Volver y hablar con ella" [END] (hablar, estornudar) 0 0

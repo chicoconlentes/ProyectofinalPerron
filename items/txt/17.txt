@@ -1,0 +1,4 @@
+﻿17
+"Ganas la batalla y matas a la bruja, pero ahora todos los perros quedan sin hablar para siempre"
+"La enfrentas" [END] (hablar, estornudar) 0 0
+"Hablar con ella y pedir que te regrese la voz" [END] (hablar, estornudar) 0 0

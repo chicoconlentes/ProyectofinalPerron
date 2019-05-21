@@ -1,0 +1,4 @@
+﻿11
+"La bruja te descubre al acercarte a ella, así que prefieres"
+"Enfrentarla" [12] (hablar, estornudar) 0 0
+"Hablar con ella y pedir que te regrese la voz" [13] (hablar, estornudar) 0 0

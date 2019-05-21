@@ -1,0 +1,4 @@
+﻿8
+"Te encuentras cansado y antes de subir con la bruja, decides"
+"Tomar agua" [9] (hablar, estornudar) 0 -10
+"Comer un poco" [9] (hablar, estornudar) 0 -5

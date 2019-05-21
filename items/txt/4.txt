@@ -1,0 +1,4 @@
+﻿4
+"Al caer la noche te encuentras agobiado, puedes elegir cuál de las siguientes actividades realizar"
+"Jugar con la pelota" [5] (hablar, estornudar) 0 30
+"Comer y tomar agua" [5] (hablar, estornudar) 0 -10
